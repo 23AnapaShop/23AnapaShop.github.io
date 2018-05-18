@@ -1,0 +1,130 @@
+html,
+body {
+	height: 100%;
+}
+
+.container2 {
+	display: flex;
+	flex-direction: column!important;
+	min-height: 100%;
+}
+
+.content {
+	flex: 1;
+}
+
+.m-md-3 {
+	padding: 2rem!important;
+}
+
+.navbar {
+	position: sticky;
+}
+
+.text-center {
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+.lead {
+	margin-top: 16px;
+}
+
+main {
+	width: 100%;
+	background: <img: src="https://pp.userapi.com/c840125/v840125708/8be17/M1ovdhYo-vg.jpg">;
+
+
+}
+.label_cent{
+	text-align: center
+}
+.pictur {
+	width: 8%;
+    padding-bottom: 3%;
+	margin-left: 20px;
+	margin-right: 20px;
+
+
+}
+
+.img-america img {
+	width: 400px;
+	padding-bottom: 4%;
+}
+
+.img-mos img {
+	width: 400px;
+	padding-bottom: 4%;
+}
+
+p {
+	font-size: 1.25rem;
+	font-weight: 300;
+
+}
+
+.radi {
+	display: flex;
+	width: 25%;
+	border-radius: 15%;
+
+}
+
+bg-dark {
+	width: 100%;
+}
+
+.img-link {
+	width: 45px;
+}
+
+.link {
+	width: 100%;
+}
+
+footer .navbar-brand {
+	font-size: 12px;
+}
+
+.jumbotron {
+	background: white;
+	margin-bottom: 0;
+}
+
+.p-md-3 {
+	padding: 20px!important;
+}
+
+.myownfooter {
+	display: flex;
+
+	color: white
+
+}
+
+.row {
+	margin-right: 0px;
+	margin-left: 0px;
+}
+.nav-link{
+	color: white!important
+}
+.dropdown-item{
+	color: white
+}
+.navbar-cont{
+	margin-left:auto!important
+}
+.img-link-small{
+	width: 28px;
+}
+.marg_auto_right{
+	margin-right: auto;
+}
+.ban_label{
+	display: flex;
+	justify-content: center;
+	color: white;
+}
