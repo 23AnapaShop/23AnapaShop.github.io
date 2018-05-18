@@ -37,9 +37,14 @@ main {
 
 
 }
-
-pictur {
-	display: flex;
+.label_cent{
+	text-align: center
+}
+.pictur {
+	width: 8%;
+    padding-bottom: 3%;
+	margin-left: 20px;
+	margin-right: 20px;
 
 
 }
@@ -94,7 +99,7 @@ footer .navbar-brand {
 
 .myownfooter {
 	display: flex;
-	justify-content: center;
+
 	color: white
 
 }
@@ -110,5 +115,16 @@ footer .navbar-brand {
 	color: white
 }
 .navbar-cont{
-	margin-left: :auto!important
+	margin-left:auto!important
+}
+.img-link-small{
+	width: 28px;
+}
+.marg_auto_right{
+	margin-right: auto;
+}
+.ban_label{
+	display: flex;
+	justify-content: center;
+	color: white;
 }
