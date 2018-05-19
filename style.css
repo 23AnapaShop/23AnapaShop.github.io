@@ -109,7 +109,10 @@ footer .navbar-brand {
 	margin-left: 0px;
 }
 .nav-link{
+	text-align: center;
 	color: white!important
+	
+		
 }
 .dropdown-item{
 	color: white
@@ -127,4 +130,12 @@ footer .navbar-brand {
 	display: flex;
 	justify-content: center;
 	color: white;
+}
+.contact_picture{
+    margin-right: 9%;
+    width: 30%;
+    height: 34%;
+    border-radius: 12%;
+    padding-left: 0px;
+	    margin-bottom: 6%;
 }
