@@ -139,3 +139,12 @@ footer .navbar-brand {
     padding-left: 0px;
 	    margin-bottom: 6%;
 }
+
+.caller{
+    bottom: 0%;
+    right: 1.5%;
+    width: 5%;
+    position: fixed;
+    display: block;
+    z-index: 5;
+}
